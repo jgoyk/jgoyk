@@ -7,6 +7,8 @@
 <p>
   I am currently working on the following projects: <a href="https://github.com/jgoyk/WorkoutTracker">Workout Tracker</a>
 </p>
+
+View my Software Methodology Projects from Fall 2024 here: <a href="https://github.com/stars/jgoyk/lists/software-methology-projects">Project List</a> 
 <!--
 **jgoyk/jgoyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
