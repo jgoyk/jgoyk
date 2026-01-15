@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  I am currently working on the following projects: <a href="https://github.com/jgoyk/WorkoutTracker">Workout Tracker</a>
+  I am currently working on the following projects: <a href="https://github.com/jgoyk/WorkoutTracker">Workout Tracker</a>, <a href="https://github.com/jgoyk/QuantTraderProject">ES-SPY basis Trading Algo</a>
 </p>
 
 View my Software Methodology Projects from Fall 2024 here: <a href="https://github.com/stars/jgoyk/lists/software-methology-projects">Project List</a> 
